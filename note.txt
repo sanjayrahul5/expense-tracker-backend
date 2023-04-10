@@ -1,0 +1,13 @@
+C - Created - POST
+R - Read/Retrieve - GET
+U - Update - PUT
+D - Delete - DELETE
+
+
+Initial setup on Notion Day 5  notes
+
+
+npm init
+npm install express
+npm install body-parser
+npm install mangoose
